@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @SCORPIONDEVS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-SCORPIONDEVS/SCORPIONDEVS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## CRIAR SUBDOMINIO E APONTAR PARA O IP DA SUA VPS ##
+
+FRONTEND_URL: app.Brandxdigital.com.br
+BACKEND_URL:  api.brandxdigital.com.br
+
+## CHECAR PROPAGAÇÃO DO DOMÍNIO ##
+
+https://dnschecker.org/
+
+## COPIAR A PASTA PARA ROOT E RODAR OS COMANDOS ABAIXO ##
+
+sudo chmod +x ./whaticket_shell_saas/whaticketsaas
+cd ./whaticket_shell_saas
+sudo ./whaticketsaas
+
+===================================================
+
+login: admin@admin.com
+senha: 123456
